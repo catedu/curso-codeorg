@@ -1,24 +1,21 @@
+# 1. La página de inicio del maestro
 
-### 1. La página de inicio del maestro
-
-
-![](http://moodle.catedu.es/pluginfile.php/1618/mod_book/chapter/8/P%C3%A1gina%20de%20inicio%20del%20maestro%20en%20code.org.png)
+![](img/pagina-inicio-maestro.png)
 
 Como al crear tu cuenta especificaste que eras profesor, cada vez que inicies sesión serás dirigido a la página que ves sobre estas líneas. Si por error dijiste que eras alumno, no pasa nada, puedes cambiar este parámetro editanto tu perfil. A continuación describiremos las opciones que nos ofrece cada apartado.
 
 ## Cuentas de estudiantes y sus progresos
 
-
-![](http://moodle.catedu.es/pluginfile.php/1618/mod_book/chapter/8/Cuentas%20de%20estudiantes%20y%20sus%20progresos%20en%20code.org.png)
+![](img/cuentas-progresos-estudiantes.png)
 
 Si avanzas con el scroll verás que tienes algunos cursos más a parte de los ofertados por defecto (algebra, informática en la ciencia y cursos anuales para bachillerato). Eso sí, están disponibles sólo en inglés de momento.
 
- Progreso de su curso
+## Progreso de su curso
 
 En este apartado se guardarán tus progresos como alumno. Puedes iniciar cualquiera de los cursos ofertados. Bajo la indicación de las edades recomendadas verás si has iniciado o no cada curso, quedando etiquetados con "Continuar" o "Probar ahora".
 
 
-![](http://moodle.catedu.es/pluginfile.php/1618/mod_book/chapter/8/Cursos%20iniciados%20y%20no%20iniciados%20en%20code.org.png)
+![](img/cursos-iniciados.png)
 
 ## Planificaciones de lecciones y recursos
 

@@ -1,15 +1,12 @@
-
-### 4. Gestiona tus alumnos e imprime sus certificados
+# 4. Gestiona tus alumnos e imprime sus certificados
 
 En la página que ya conoces, donde puedes ver el progreso de tus alumnos, también podrás gestionarlos con las siguientes opciones:
 
-
-![](http://moodle.catedu.es/pluginfile.php/1618/mod_book/chapter/11/Gestionar%20alumnos%20code.org.png)
+![](img/gestionar-alumnos-code.png)
 
 ¿Han completado el curso satisfactoriamente? Imprime un certificado para cada alumno con 4 clics desde tu página del maestro. ¡Quedarán así de chulos!
 
-
-![](http://moodle.catedu.es/pluginfile.php/1618/mod_book/chapter/11/Certificado%20de%20code.org.png)
+![](certificado-code.png)
 
 ¡Enhorabuena! Has llegado también al final de este curso de Aularagón. ¡Buen trabajo!
 
