@@ -4,7 +4,7 @@ Para superar este módulo deberás **completar el cuestionario** del mismo en Au
 
 Entra en el curso de code al que te has unido en la sección anterior. Basta con iniciar sesión en code.org y clicar en "Continuar".
 
-**¡¡¡IMPORTANTE!!!!.**Para facilitar el seguimiento de tu progreso, accede a tu cuenta y modifica el campo **Nombre a mostrar** introduciendo tu **Nombre y apellidos**. **Si no lo haces**, no podremos identificar que realizas los puzzles obligatorios que se mencionan a continuación, y **no podrás superar el curso.**
+**¡¡¡IMPORTANTE!!!!.**Para facilitar el seguimiento de tu progreso, accede a tu cuenta y modifica el campo **Nombre a mostrar** introduciendo tu **DNI**. **Si no lo haces**, no podremos identificar que realizas los puzzles obligatorios que se mencionan a continuación, y **no podrás superar el curso.**
 
 ![](img/continuar-curso.png)
 
