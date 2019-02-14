@@ -8,4 +8,4 @@ Con code.org aprender programación es divertido. Además te ayuda a gestionar t
 
 ![](img/descarga.png)
 
-{% include "git+https://github.com/catedu/ensena-pensamiento-computacional-con-arduino.git/grupo-robotica-educativa-aragon.md" %}
+{% include "git+https://github.com/catedu/robotica.git/README.md" %}
