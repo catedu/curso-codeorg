@@ -4,13 +4,14 @@ Para superar este módulo deberás **completar el cuestionario** del mismo en Au
 
 Entra en el curso de code al que te has unido en la sección anterior. Basta con iniciar sesión en code.org y clicar en "Continuar".
 
-**¡¡¡IMPORTANTE!!!!.**Para facilitar el seguimiento de tu progreso, accede a tu cuenta y modifica el campo **Nombre a mostrar** introduciendo tu **DNI sin letra**.**Si no lo haces**, no podremos identificar que realizas los puzzles obligatorios que se mencionan a continuación, y **no podrás superar el curso.**
+**¡¡¡IMPORTANTE!!!!.**Para facilitar el seguimiento de tu progreso, accede a tu cuenta y modifica el campo **Nombre a mostrar** introduciendo tu **DNI**. **Si no lo haces**, no podremos identificar que realizas los puzzles obligatorios que se mencionan a continuación, y **no podrás superar el curso.**
 
 ![](img/continuar-curso.png)
 
 Deberás superar como mínimo los siguientes puzzles, tal y como ellos lo llaman:
 
-#### Etapa 2  
+#### Etapa 2
+
 * 2 - Bloque avanzar
 * 3- Bloque girar a la...
 * 6 - Repetir x veces
@@ -20,30 +21,38 @@ Deberás superar como mínimo los siguientes puzzles, tal y como ellos lo llaman
 * 18 - Bloque Si/Sino
 
 #### Etapa 5
+
 * 2 - Bloque definir colo
 * 10 - Practicar con "definir color aleatorio" y "definir ancho"
 
 #### Etapa 7
-* 8 - Practicando bucles (loops)
+
+* 8 - Practicando bucles \(loops\)
 
 #### Etapa 9
-* 5 - Bloque Mientras (while)
-* 11 - Pranticando condicionales y bucles (loops): repetir y mientras
+
+* 5 - Bloque Mientras \(while\)
+* 11 - Pranticando condicionales y bucles \(loops\): repetir y mientras
 
 #### Etapa 11
+
 * 2 - Funciones y variables
 * 6 - Bloque contador
 * 7 - Practicando el bloque contador
 
 #### Etapa 13
+
 * 2 - Bloque función
 * 3 - Creando tu propia función
 * 9 - Practicando con funciones
 
 #### Etapa 15
+
 * 6 - Funciones con parámetros
 
 #### Etapa 17
+
 * 8 - Depuración o debugging
 
 **¡Diviértete!**
+
